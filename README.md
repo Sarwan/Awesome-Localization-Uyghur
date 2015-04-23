@@ -14,12 +14,20 @@ Awesome Localized Software in Uyghur Language
 ## Web Browser
 - []()
 - []()
+- 
+
 ## WebSites
 - []()
 - []()
+- 
+
 ## Tools
 - []()
 - []()
+- 
+
 ## Mobile
 - []()
 - []()
+- 
+
