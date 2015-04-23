@@ -2,8 +2,8 @@
 Awesome Localized Software in Uyghur Language
 
 ## OS
-- []()
-- []()
+- [ubuntu linux](http://www.ubuntu.com/) [Translation Page](https://translations.launchpad.net/ubuntu/lucid/+lang/ug)
+- [Windows](http://windows.microsoft.com/) ug Language Pack [8.0](http://www.microsoft.com/ug-CN/download/details.aspx?id=35403)/[8.1](http://www.microsoft.com/ug-CN/download/details.aspx?id=39307)
 
 
 ## Office
