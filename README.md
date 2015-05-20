@@ -10,6 +10,7 @@ Awesome Localized Software in Uyghur Language
 ## Office
 - [Open Office](http://www.openoffice.org/) [ug-language-pack](http://archive.apache.org/dist/incubator/ooo/localized/ug/)
 - [libreoffice](http://www.libreoffice.org/) [ug-language-pack](http://www.libreoffice.org/download/libreoffice-still/?type=win-x86&version=&lang=ug)
+- [MS Office Language Interface Pack](http://www.microsoft.com/ug-cn/download/details.aspx?id=36528)
 
 ## Web Browser
 - []()
@@ -17,8 +18,9 @@ Awesome Localized Software in Uyghur Language
 
 
 ## WebSites
-- []()
-- []()
+- Goole
+- Outlook
+- OneDrive
 
 
 ## Tools
