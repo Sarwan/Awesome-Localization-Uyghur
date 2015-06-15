@@ -25,7 +25,7 @@ Awesome Localized Software in Uyghur Language
 
 ## Tools
 - [emule](http://www.emule-project.net/home/perl/general.cgi?l=1&rm=download)
-- []()
+- [Wise Data Recovery](http://www.wisecleaner.com/wise-data-recovery.html),[language file](http://www.wisecleaner.com/language_WiseDataRecovery_3.html)
 
 
 ## Mobile
