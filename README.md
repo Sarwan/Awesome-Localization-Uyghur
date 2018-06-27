@@ -29,7 +29,6 @@ Awesome Localized Software in Uyghur Language
 
 
 ## Mobile
-- [quran android](https://github.com/quran/quran_android)
 - []()
 
 
